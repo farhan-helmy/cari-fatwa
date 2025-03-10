@@ -1,0 +1,12 @@
+mufti_wp_articles.json
+mufti_wp_articles.csv
+cache/
+scraper.log
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+*.log.*.*.*.*.*
+list_page.html
+detail_page.html

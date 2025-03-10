@@ -1,0 +1,8 @@
+requests==2.31.0
+urllib3==1.26.18
+beautifulsoup4==4.12.2
+pandas==2.1.1
+tqdm==4.66.1
+matplotlib==3.8.0
+seaborn==0.13.0
+nltk==3.8.1 
