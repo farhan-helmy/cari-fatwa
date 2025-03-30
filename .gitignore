@@ -10,3 +10,11 @@ scraper.log
 *.log.*.*.*.*.*
 list_page.html
 detail_page.html
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.test
+.env.production
